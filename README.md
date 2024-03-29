@@ -42,6 +42,6 @@ Machine Learning Algorithm Packages:
 ![Bagging](https://img.shields.io/badge/Bagging-FFA500?style=for-the-badge&logo=python&logoColor=white)
 
 
-[![Honey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honey28Git)](https://github.com/Honey28Git/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Honey28Git&theme=radical)](https://git.io/streak-stats)
 
 
