@@ -15,9 +15,9 @@
 - Feel free to reach out to me via email at [honeysam28.97@gmail.com].
 - Open to collaboration on exciting projects and initiatives.
   
-- ## 🛠️ Languages and Tools :
+ ## 🛠️ Data Visualization using Tools and Languages:
   
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -30,7 +30,25 @@
 ![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Stats](https://img.shields.io/badge/Stats-000000?style=for-the-badge&logo=statistics&logoColor=white)
 
-## Machine Learning Algorithm Packages:
+## I'm Good at:
+- Data Analysis and Data Mining
+- Data Preprocessing and Cleaning
+- Data Visualization
+- Statistical Analysis
+- Advanced Mathematics
+- Clustering Techniques (Hierarchical Clustering, DBSCAN)
+- Dimensionality Reduction (PCA, SVD, Autoencoders)
+- Hypothesis Testing
+- Building Machine Learning Models
+- Time Series Analysis
+- Dashboard and KPI Development
+- Business Intelligence Tools (Microsoft Power BI, Tableau)
+- Text Mining
+- A/B Testing
+- Feature Selection and Engineering
+- Model Deployment
+
+## Adept at using Tools and Packages: 
 
 ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-FFA500?style=for-the-badge&logo=python&logoColor=white)
 ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-FFA500?style=for-the-badge&logo=python&logoColor=white)
@@ -43,6 +61,7 @@
 ![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-008000?style=for-the-badge&logo=python&logoColor=white)
 ![Bagging](https://img.shields.io/badge/Bagging-FFA500?style=for-the-badge&logo=python&logoColor=white)
 
+## My Github Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Honey28Git&theme=radical)](https://git.io/streak-stats)
 
