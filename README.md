@@ -11,7 +11,7 @@
 - 🔭 Engaged in diverse projects, I immerse myself in the realms of Data Analysis, Machine Learning, Data Engineering, and Cloud-based Data Science applications, seeking to unravel patterns and insights from vast and intricate datasets.
 
 - ## 📫 How to reach me:
-- [honey-s-30b71195](https://www.linkedin.com/in/honey-s-30b71195/) 
+- [LinkedIn URL: honey-s-30b71195](https://www.linkedin.com/in/honey-s-30b71195/) 
 - Feel free to reach out to me via email at [honeysam28.97@gmail.com].
 - Open to collaboration on exciting projects and initiatives.
   
