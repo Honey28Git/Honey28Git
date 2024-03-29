@@ -10,14 +10,13 @@
 
 -🔭 Engaged in diverse projects, I immerse myself in the realms of Data Analysis, Machine Learning, Data Engineering, and Cloud-based Data Science applications, seeking to unravel patterns and insights from vast and intricate datasets.
 
-- 📫 How to reach me:
-- 
+- ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/honey-s-30b71195/) 
 - Feel free to reach out to me via email at [honeysam28.97@gmail.com].
 - Open to collaboration on exciting projects and initiatives.
   
-- 🛠️ Languages and Tools :
-- 
+- ## 🛠️ Languages and Tools :
+  
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
@@ -31,7 +30,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Stats](https://img.shields.io/badge/Stats-000000?style=for-the-badge&logo=statistics&logoColor=white)
 
-Machine Learning Algorithm Packages:
+## Machine Learning Algorithm Packages:
 
 ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-FFA500?style=for-the-badge&logo=python&logoColor=white)
 ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-FFA500?style=for-the-badge&logo=python&logoColor=white)
