@@ -1,16 +1,47 @@
-### Hi there 👋 I'm Honey. You can call me Sam. 
+### Hi there 👋 I'm Honey. 
 
-<!--
-**Honey28Git/Honey28Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Scientist | AI Enthusiast | Data Enthusiast
 
-Here are some ideas to get you started:
+-🎓 I've successfully completed the Post Graduate Program in Data Science and Business Analytics by Great Learning, in collaboration with McCombs School of Business, UT Austin, Texas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🚀 My passion lies in the realm of Data Science, where I continually explore the breadth and depth of its techniques and tools to extract profound insights from complex datasets.
+
+-🔍 Currently, I'm dedicated to honing my skills across various pillars of Data Science, including Data Analysis, Visualization, Machine Learning, Data Engineering, Deep Learning, and Artificial Intelligence.
+
+-🔭 Engaged in diverse projects, I immerse myself in the realms of Data Analysis, Machine Learning, Data Engineering, and Cloud-based Data Science applications, seeking to unravel patterns and insights from vast and intricate datasets.
+
+- 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/honey-s-30b71195/) 
+- Feel free to reach out to me via email at [honeysam28.97@gmail.com].
+- Open to collaboration on exciting projects and initiatives.
+  
+- 🛠️ Languages and Tools :
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Knime](https://img.shields.io/badge/Knime-0085CA?style=for-the-badge&logo=knime&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Stats](https://img.shields.io/badge/Stats-000000?style=for-the-badge&logo=statistics&logoColor=white)
+
+Machine Learning Algorithm Packages:
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-FFA500?style=for-the-badge&logo=python&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-FFA500?style=for-the-badge&logo=python&logoColor=white)
+![Decision Trees](https://img.shields.io/badge/Decision%20Trees-008000?style=for-the-badge&logo=python&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-008000?style=for-the-badge&logo=python&logoColor=white)
+![Support Vector Machine](https://img.shields.io/badge/Support%20Vector%20Machine-FFA500?style=for-the-badge&logo=python&logoColor=white)
+![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-FFA500?style=for-the-badge&logo=python&logoColor=white)
+![K-Nearest Neighbors](https://img.shields.io/badge/K--Nearest%20Neighbors-008000?style=for-the-badge&logo=python&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FFA500?style=for-the-badge&logo=python&logoColor=white)
+![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-008000?style=for-the-badge&logo=python&logoColor=white)
+![Bagging](https://img.shields.io/badge/Bagging-FFA500?style=for-the-badge&logo=python&logoColor=white)
+
+
+[![Honey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honey28Git)](https://github.com/Honey28Git/github-readme-stats)
+
+
