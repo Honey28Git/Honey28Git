@@ -37,7 +37,7 @@
 - Statistical Analysis
 - Advanced Mathematics
 - Clustering Techniques (Hierarchical Clustering, DBSCAN)
-- Dimensionality Reduction (PCA, SVD, Autoencoders)
+- Dimensionality Reduction (PCA)
 - Hypothesis Testing
 - Building Machine Learning Models
 - Time Series Analysis
