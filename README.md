@@ -47,6 +47,8 @@
 - A/B Testing
 - Feature Selection and Engineering
 - Model Deployment
+- Building CNN models
+- RNN Models
 
 ## Adept at using Tools and Packages: 
 
@@ -60,6 +62,12 @@
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FFA500?style=for-the-badge&logo=python&logoColor=white)
 ![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-008000?style=for-the-badge&logo=python&logoColor=white)
 ![Bagging](https://img.shields.io/badge/Bagging-FFA500?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-007396?style=for-the-badge&logo=python&logoColor=white)
+![RNN](https://img.shields.io/badge/RNN-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## My Github Stats:
 
