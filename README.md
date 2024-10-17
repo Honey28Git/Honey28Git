@@ -2,8 +2,6 @@
 
 ## 🚀 Data Scientist | AI Enthusiast | Data Enthusiast
 
-- 🎓 I've successfully completed the Post Graduate Program in Data Science and Business Analytics by Great Learning, in collaboration with McCombs School of Business, UT Austin, Texas.
-
 - 🚀 My passion lies in the realm of Data Science, where I continually explore the breadth and depth of its techniques and tools to extract profound insights from complex datasets.
 
 - 🔍 Currently, I'm dedicated to honing my skills across various pillars of Data Science, including Data Analysis, Visualization, Machine Learning, Data Engineering, Deep Learning, and Artificial Intelligence.
