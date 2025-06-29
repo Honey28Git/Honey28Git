@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Honey. 
 
-## 🚀 Data Scientist | AI Enthusiast | Data Enthusiast
+## 🚀 Data Analyst | Curious about all things Data Science | Business Analyst
 
 - 🚀 My passion lies in the realm of Data Science, where I continually explore the breadth and depth of its techniques and tools to extract profound insights from complex datasets.
 
